@@ -96,5 +96,5 @@ $(document).ready(function() {
     setTimeout(one, 5000);
   }
 
-  setTimeout(one, 2000);
+  setTimeout(one, 4000);
 });
